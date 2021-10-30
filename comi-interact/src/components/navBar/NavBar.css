@@ -70,6 +70,7 @@
 }
 .o_title_nav{
     font-family: 'Roboto', sans-serif;
+    font-weight: 300;
     font-size: 100%;
     margin: 0px 0rem 0px 15rem;
     color: #DDDDDD;
@@ -95,7 +96,7 @@
 .contact{
     font-family: 'Roboto', sans-serif;
     margin-right: 10px;
-    color: #DDDDDD;
+    color: #DDDDDD ;
     margin: 0;
 }
 

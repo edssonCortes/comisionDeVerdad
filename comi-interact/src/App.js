@@ -1,15 +1,18 @@
 
-import NavBar from './components/navBar/NavBar.js';
+import NavBar from './components/NavBar/NavBar.js';
 import Footer from './components/Footer/Footer.js';
+import Titulos from './components/Titulos/Titulos.js';
+import Landing from './imgs/Landing.jpg';
 import './App.css';
+
 
 function App() {
   return (
     <div className="App">
       <NavBar></NavBar>
-      <div className="space">
-
-      </div>
+      <img className="o_imgLanding" src={Landing} alt="Landing" />
+      <Titulos texto="¿Quienes somos?"></Titulos>
+     
 
 
 
