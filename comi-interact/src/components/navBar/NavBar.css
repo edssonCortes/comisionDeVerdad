@@ -8,6 +8,7 @@
     width: 100%;
     box-shadow: 0px 4px 0px 0px rgba(155, 155, 155, 0.2);
     margin-top: 4px;
+    background-color: #222831;
     
         
     
@@ -71,7 +72,7 @@
     font-family: 'Roboto', sans-serif;
     font-size: 100%;
     margin: 0px 0rem 0px 15rem;
-    color: #101994;
+    color: #DDDDDD;
     cursor: pointer;
     white-space: nowrap;
 }
@@ -94,7 +95,7 @@
 .contact{
     font-family: 'Roboto', sans-serif;
     margin-right: 10px;
-    color: #101994;
+    color: #DDDDDD;
     margin: 0;
 }
 

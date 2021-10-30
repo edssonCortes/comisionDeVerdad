@@ -8,7 +8,7 @@ import youtube from '../../imgs/youtube.png'
 
 function Footer() {
     return (
-        <div className="o_footer" style={{ backgroundImage: `url(${bg})` }}>
+        <div className="o_footer">
 
 
             <div className="space2">

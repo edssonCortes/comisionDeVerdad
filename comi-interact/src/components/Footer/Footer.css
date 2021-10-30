@@ -4,7 +4,10 @@
     justify-content: flex-end;
     width: 100%;
     height: 10rem;
+    background-color: #222831;
 }
+
+/*style={{ backgroundImage: `url(${bg})` }}*/
 
 .o_contact {
     display: flex;
@@ -31,22 +34,24 @@
 }
 
 .o_footText {}
-.space2{
+
+.space2 {
     display: flex;
     flex-direction: row;
-    
-    
 }
-.space3{
+
+.space3 {
     display: flex;
     width: 20%;
 }
 
 .o_contact_text {
     margin: 0;
+    color: #DDDDDD;
 }
 
 .o_h3Foot {
     font-size: medium;
     margin: 0;
+    color: #DDDDDD;
 }
