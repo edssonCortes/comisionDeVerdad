@@ -8,7 +8,7 @@ import Subtitulos from './components/Subtitulos/Subtitulos.js';
 /*import video from "./imgs/video.mp4"*/
 import juego from "./imgs/juego.png"
 /*import video from "https://www.youtube.com/watch?v=ZQhYeztNMcg"*/
-
+/*holi*/
 
 
 function App() {
